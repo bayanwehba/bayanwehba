@@ -1,55 +1,42 @@
-# 👩‍💻 Bayan Wehba | Frontend Developer
+<h1 align="center">👩‍💻 Bayan Wehba</h1>
+<h3 align="center">Frontend Developer | React.js</h3>
 
-📍 Syria  
-📧 Email: bayanwehba4@gmail.com  
-📱 Phone: 0937019029  
-🔗 GitHub: [bayanwehba](https://github.com/bayanwehba)
-
----
-
-## 👋 Personal Profile
-I am an enthusiastic and detail-oriented Frontend Developer with hands-on experience in **React.js**.  
-I specialize in building responsive and user-friendly interfaces and enjoy working in collaborative team environments.  
-I am a quick learner, adaptable, and committed to writing clean and maintainable code.
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Syria-blue" />
+  <img src="https://img.shields.io/badge/Email-bayanwehba4%40gmail.com-red" />
+</p>
 
 ---
 
-## 🛠️ Skills
+## 🌸 About Me
+💡 Frontend Developer passionate about building modern, responsive web interfaces using **React.js**.  
+✨ Detail-oriented, fast learner, and team player.
 
-### 💻 Technical Skills
-- HTML, CSS, JavaScript  
-- React.js  
-- Material UI  
-- Axios  
-- Git & GitHub  
-- Responsive & Mobile-Friendly Design  
+---
 
-### 🔧 Additional Languages & Tools
-- C++  
-- Java  
-- Flutter (Basic Understanding)
-
-### 🤝 Soft Skills
-- Team Collaboration  
-- Adaptability  
-- Self-Learning  
-- Attention to Detail  
-- Problem-Solving  
+## 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/HTML-orange" />
+  <img src="https://img.shields.io/badge/CSS-blue" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow" />
+  <img src="https://img.shields.io/badge/React-61DAFB" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB" />
+  <img src="https://img.shields.io/badge/Git-black" />
+</p>
 
 ---
 
 ## 🎓 Education
-**Bachelor of Software Engineering**  
-Faculty of Information Technology Engineering – Damascus University  
-🗓 Expected Graduation: 2026
+🎓 Software Engineering – Damascus University  
+📅 Expected Graduation: 2026
 
 ---
 
 ## 🌍 Languages
-- Arabic: Native  
-- English: Good
+- 🇸🇾 Arabic: Native  
+- 🇬🇧 English: Good  
 
 ---
 
 ## 🚀 Projects
-> Projects will be added soon. Stay tuned!
+✨ Coming soon...
