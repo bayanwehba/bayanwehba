@@ -4,7 +4,7 @@
 🌸 Welcome to my GitHub profile!
 
 🔗 **Portfolio Website:**  
-👉 https://bayanwehba.github.io/bayanwehba/
+👉 https://bayanwehba.github/bayanwehba/
 
 📧 Email: bayanwehba4@gmail.com  
 📍 Location: Syria
