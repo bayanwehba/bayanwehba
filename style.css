@@ -43,35 +43,27 @@ ul li::before {
   content: "💗 ";
 }
 
-/* 🔥 FIXED PROJECTS GRID */
+/* 🌸 PROJECTS – واضح ورايق */
 .projects {
-  display: grid;
-  grid-template-columns: 1fr 1fr; /* لابتوب: صورتين جنب بعض */
+  display: flex;
+  flex-direction: column; /* صور تحت بعض */
   gap: 20px;
   margin-top: 20px;
 }
 
 .projects img {
   width: 100%;
-  height: 180px;       /* حجم ثابت */
-  object-fit: cover;   /* قص ذكي */
-  border-radius: 14px;
+  height: auto;          /* بدون قص */
+  object-fit: contain;
+  border-radius: 16px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
 }
 
-/* 📱 موبايل */
+/* موبايل */
 @media (max-width: 768px) {
   .container {
     margin: 20px;
     padding: 20px;
-  }
-
-  .projects {
-    grid-template-columns: 1fr; /* صورة تحت صورة */
-  }
-
-  .projects img {
-    height: 200px;
   }
 }
 
