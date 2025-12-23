@@ -42,6 +42,24 @@ ul li::before {
   content: "💗 ";
 }
 
+.projects {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.projects img {
+  width: 100%;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease;
+}
+
+.projects img:hover {
+  transform: scale(1.05);
+}
+
 footer {
   text-align: center;
   margin-top: 30px;
